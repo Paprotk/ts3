@@ -1,4 +1,3 @@
-C:\Users\Arek\Documents\SharpDevelop Projects\Playtime\Playtime\obj\Debug\Playtime.csprojResolveAssemblyReference.cache
 C:\Users\Arek\Documents\SharpDevelop Projects\Playtime\Playtime\bin\Debug\Playtime.dll
 C:\Users\Arek\Documents\SharpDevelop Projects\Playtime\Playtime\bin\Debug\Playtime.pdb
 C:\Users\Arek\Documents\SharpDevelop Projects\Playtime\Playtime\bin\Debug\ScriptCore.dll
@@ -10,3 +9,4 @@ C:\Users\Arek\Documents\SharpDevelop Projects\Playtime\Playtime\bin\Debug\Sims3S
 C:\Users\Arek\Documents\SharpDevelop Projects\Playtime\Playtime\bin\Debug\UI.dll
 C:\Users\Arek\Documents\SharpDevelop Projects\Playtime\Playtime\obj\Debug\Playtime.dll
 C:\Users\Arek\Documents\SharpDevelop Projects\Playtime\Playtime\obj\Debug\Playtime.pdb
+C:\Users\Arek\Documents\SharpDevelop Projects\Playtime\Playtime\obj\Debug\Playtime.csprojResolveAssemblyReference.cache

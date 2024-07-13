@@ -41,10 +41,15 @@
     <DefineConstants>TRACE</DefineConstants>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="TimerInit.cs" />
-    <Compile Include="PlaytimeCommands.cs" />
-    <Compile Include="PersistableSettings.cs" />
-    <Compile Include="Main.cs" />
+    <Compile Include="4TimerMaths.cs" />
+    <Compile Include="3AllTimers.cs" />
+    <Compile Include="2Command.cs" />
+    <Compile Include="5TimeStats.cs" />
+    <Compile Include="1Main.cs" />
+    <Compile Include="6NotificationSystem.cs" />
+    <Compile Include="8ExceptionHandler.cs" />
+    <Compile Include="Localization.cs" />
+    <Compile Include="7MailboxInteraction.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
